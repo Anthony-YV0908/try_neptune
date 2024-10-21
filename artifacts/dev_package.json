@@ -1,0 +1,47 @@
+{
+	"id": "37b4ee44-7aec-4a5a-ab4b-57cceee8f0d8",
+	"createdAt": "2024-10-21T07:32:25.000Z",
+	"createdBy": "admin",
+	"git": {
+		"remote": "https://github.com/Anthony-YV0908/try_neptune.git"
+	},
+	"name": "CAB",
+	"description": "CAB",
+	"ver": "24.10.21.1553",
+	"enableCICD": true,
+	"apps": [],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [
+		{
+			"id": "cbfe547a-9289-40ef-a813-e77d95de557b",
+			"name": "CAB",
+			"description": null
+		}
+	],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": []
+}
